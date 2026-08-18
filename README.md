@@ -1,4 +1,4 @@
-Logic lab designs/ Spring 2026
+Logic Lab Designs/ Spring 2026
 
 Khorshid Bahoush  
 Sara Samadi  
